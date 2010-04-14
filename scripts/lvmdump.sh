@@ -1,7 +1,7 @@
 #!/bin/bash
 # We use some bash-isms (getopts?)
 
-# Copyright (C) 2007 Red Hat, Inc. All rights reserved.
+# Copyright (C) 2007-2010 Red Hat, Inc. All rights reserved.
 #
 # This file is part of LVM2.
 #
